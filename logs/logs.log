@@ -1,0 +1,67 @@
+
+04/01/2021 11:48:20 : Thread:Main : Thread Moedeiro:Started
+04/01/2021 11:48:20 : Thread:Main : Thread Porta:Started
+04/01/2021 11:48:20 : Thread:Main : Thread Teclado:Started
+04/01/2021 11:48:23 : Thread:Main : Acesso Negado à abertura de porta:Dinheiro Insuficiente!
+04/01/2021 12:09:57 : Thread:Main : Thread Moedeiro:Started
+04/01/2021 12:09:57 : Thread:Main : Thread Porta:Started
+04/01/2021 12:09:57 : Thread:Main : Thread Teclado:Started
+04/01/2021 12:10:01 : Thread:Main : Limpeza Forcada
+04/01/2021 12:10:11 : Thread:Main : Limpeza Forcada
+04/01/2021 12:14:27 : Thread:Main : Thread Moedeiro:Started
+04/01/2021 12:14:27 : Thread:Main : Thread Porta:Started
+04/01/2021 12:14:27 : Thread:Main : Thread Teclado:Started
+04/01/2021 12:14:31 : Thread:Main : Limpeza Forcada
+04/01/2021 12:14:41 : Thread:Main : Limpeza Forcada
+04/01/2021 12:19:25 : Thread:Main : Thread Moedeiro:Started
+04/01/2021 12:19:25 : Thread:Main : Thread Porta:Started
+04/01/2021 12:19:25 : Thread:Main : Thread Teclado:Started
+04/01/2021 12:19:29 : Thread:Main : Limpeza Forcada
+04/01/2021 12:19:39 : Thread:Main : Limpeza Forcada
+04/01/2021 12:19:49 : Thread:Main : Limpeza Forcada
+04/01/2021 12:19:59 : Thread:Main : Limpeza Forcada
+04/01/2021 12:21:16 : Thread:Main : Thread Moedeiro:Started
+04/01/2021 12:21:16 : Thread:Main : Thread Porta:Started
+04/01/2021 12:21:16 : Thread:Main : Thread Teclado:Started
+04/01/2021 12:21:20 : Thread:Main : Limpeza Forcada
+04/01/2021 12:21:30 : Thread:Main : Limpeza Forcada
+04/01/2021 12:28:01 : Thread:Main : Thread Moedeiro:Started
+04/01/2021 12:28:01 : Thread:Main : Thread Porta:Started
+04/01/2021 12:28:01 : Thread:Main : Thread Teclado:Started
+04/01/2021 12:28:11 : Thread:Main : Porta Aberta
+04/01/2021 12:28:11 : Thread:Porta : Troco devolvido:1.25€
+04/01/2021 12:28:11 : Thread:Main : Acesso Negado a abertura de porta:A porta ja esta aberta.Aguarde!
+04/01/2021 12:28:16 : Thread:Main : Acesso Negado a abertura de porta:A porta ja esta aberta.Aguarde!
+04/01/2021 12:28:17 : Thread:Main : Acesso Negado a abertura de porta:A porta ja esta aberta.Aguarde!
+04/01/2021 12:28:24 : Thread:Main : Sistema reiniciado
+04/01/2021 12:28:25 : Thread:Main : Sistema reiniciado
+04/01/2021 12:28:40 : Thread:Main : Thread Moedeiro:Started
+04/01/2021 12:28:40 : Thread:Main : Thread Porta:Started
+04/01/2021 12:28:40 : Thread:Main : Thread Teclado:Started
+04/01/2021 12:28:48 : Thread:Main : Limpeza Forcada
+04/01/2021 12:28:58 : Thread:Main : Limpeza Forcada
+04/01/2021 12:29:08 : Thread:Main : Limpeza Forcada
+04/01/2021 12:29:47 : Thread:Main : Thread Moedeiro:Started
+04/01/2021 12:29:47 : Thread:Main : Thread Porta:Started
+04/01/2021 12:29:47 : Thread:Main : Thread Teclado:Started
+04/01/2021 12:29:49 : Thread:Main : Limpeza Forcada
+04/01/2021 12:29:59 : Thread:Main : Limpeza Forcada
+04/01/2021 12:30:16 : Thread:Main : Limpeza Forcada
+04/01/2021 12:30:26 : Thread:Main : Limpeza Forcada
+04/01/2021 12:30:36 : Thread:Main : Limpeza Forcada
+04/01/2021 12:30:46 : Thread:Main : Limpeza Forcada
+04/01/2021 12:31:29 : Thread:Main : Thread Moedeiro:Started
+04/01/2021 12:31:29 : Thread:Main : Thread Porta:Started
+04/01/2021 12:31:29 : Thread:Main : Thread Teclado:Started
+04/01/2021 12:31:32 : Thread:Main : Limpeza Forcada
+04/01/2021 12:31:47 : Thread:Main : Limpeza Forcada
+24/02/2021 23:28:09 : Thread:Main : Thread Moedeiro:Started
+24/02/2021 23:28:09 : Thread:Main : Thread Porta:Started
+24/02/2021 23:28:09 : Thread:Main : Thread Teclado:Started
+24/02/2021 23:28:28 : Thread:Main : Acesso Negado a abertura de porta:Dinheiro Insuficiente!
+24/02/2021 23:28:36 : Thread:Main : Porta Aberta
+24/02/2021 23:28:36 : Thread:Porta : Troco devolvido:0.050000000000000044€
+25/02/2021 21:58:47 : Thread:Main : Thread Moedeiro:Started
+25/02/2021 21:58:47 : Thread:Main : Thread Porta:Started
+25/02/2021 21:58:47 : Thread:Main : Thread Teclado:Started
+25/02/2021 21:58:52 : Thread:Main : Acesso Negado a abertura de porta:Dinheiro Insuficiente!
